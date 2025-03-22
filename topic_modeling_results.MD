@@ -108,10 +108,10 @@
 
 ### Topics - Concerns about AI tools in Tech
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Name | Representation | Representative_Docs |
+| ----------- | ----------- | ----------- |
+| -1_come_day_sure_right | come,day,sure,right,one,vs,entrepreneur,sre,software,hire | sre experience,one hire day sure right get software engineering ai come around student inexperienced,vs entrepreneur |
+| Paragraph | Text | |
 
 ### Topics - Excitements about AI tools in Tech
 
