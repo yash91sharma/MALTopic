@@ -1,6 +1,6 @@
 ## MALTopic
 
-### Topic Modeling - Concerns about AI tools in Tech
+### Topics - Concerns about AI tools in Tech
 
 1. **Job Displacement Concerns**
    - **Description:** Anxiety regarding the potential loss of jobs due to the implementation of AI tools and automation.
@@ -52,7 +52,7 @@
     - **Respondent Profile Relevance:** Notably mentioned by experienced professionals in Engineering and Project Management, reflecting a cultural challenge in adapting to new technologies.
     - **Representative words:** Resistance, adoption, culture, innovation, productivity.
 
-### Topic Modeling - Excitements about AI tools in Tech
+### Topics - Excitements about AI tools in Tech
 
 1. **Topic Name:** Enhanced Productivity through AI Tools  
    **Description:** The excitement among experienced professionals about AI tools that significantly increase their speed and efficiency in various tasks.  
@@ -103,3 +103,23 @@
     **Description:** The importance of being adaptable and continuously learning in the face of rapidly evolving AI technologies.  
     **Respondent Profile Relevance:** Highlighted by experienced leaders and professionals who recognize the need for ongoing education in tech.  
     **Representative words:** adaptability, learning, continuous, evolution, technology.
+
+## BERTopic
+
+### Topics - Concerns about AI tools in Tech
+
+### Topics - Excitements about AI tools in Tech
+
+## LDA
+
+### Topics - Concerns about AI tools in Tech
+
+1: experience leadership ai consulting job data people use take developer
+2: job inexperienced student ai market interview analyst take skill developer
+3: product management experience team ai concern privacy engineer change bias
+4: engineering development inexperienced change skill job take experience people market
+5: datum analytic science tool security inexperienced ai experience job skill
+6: management project program experience change tool ai use bias skill
+7: development experience engineering ai engineer cost team use tool developer
+
+### Topics - Excitements about AI tools in Tech
