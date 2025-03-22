@@ -120,6 +120,12 @@
 
 ### Topics - Excitements about AI tools in Tech
 
+| Name | Representation | Representative_Docs |
+| ----------- | ----------- | ----------- |
+| 0_experience_ai_management_leadership | experience,ai,management,leadership,product,student,project,tool,inexperienced,automation | product management tool ai promts product management experience,project program management experience,product management experience |
+| 1_development_engineering_inexperienced_experience | development,engineering,inexperienced,experience,fast,engineer,build,learn,cost,know | engineering development,engineering development,engineering development |
+| 2_analytic_science_datum_inexperienced | analytic,science,datum,inexperienced,data,experience,efficiency,productivity,readily,almost | datum science analytic inexperienced,datum science analytic,datum science analytic |
+
 ## LDA
 
 ### Topics - Concerns about AI tools in Tech
