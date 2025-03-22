@@ -123,3 +123,12 @@
 7. development experience engineering ai engineer cost team use tool developer
 
 ### Topics - Excitements about AI tools in Tech
+
+1. analytic science datum data experience inexperienced productivity efficiency ai code
+2. development engineering experience engineer ai fast chatgpt task automate repetitive
+3. product management experience datum chatgpt code efficiency tool build ai
+4. experience leadership automation task repetitive productivity cost saving ai efficiency
+5. project management program cost experience saving ai tool analyst chatgpt
+6. inexperienced student ai fast use learn productivity chatgpt tool build
+7. ai experience tool consulting leadership help automate task code efficiency
+
