@@ -111,7 +111,12 @@
 | Name | Representation | Representative_Docs |
 | ----------- | ----------- | ----------- |
 | -1_come_day_sure_right | come,day,sure,right,one,vs,entrepreneur,sre,software,hire | sre experience,one hire day sure right get software engineering ai come around student inexperienced,vs entrepreneur |
-| Paragraph | Text | |
+| 0_datum_analytic_science_experience | datum,analytic,science,experience,leadership,consulting,security,job,data,analyst | datum science analytic,datum science analytic experience,job security datum science analytic |
+| 1_development_engineering_inexperienced_experience | development,engineering,inexperienced,experience,engineer,job,blindly,trust,human,cost | engineering development,engineering development,engineering development |
+| 2_ai_tool_experience_leadership | ai,tool,experience,leadership,engineering,development,team,engineer,automation,use | ai skillset team engineering development experience,automation ai tool good fail job condition decision making dependent ai tool engineering development experience,ai engineering development experience |
+| 3_student_inexperienced_job_interview | student,inexperienced,job,interview,skill,rich,land,junior,difficult,find | student inexperienced,student inexperienced,student inexperienced |
+| 4_project_program_management_experience | project,program,management,experience,change,accuracy,utilise,knowledge,teach,scrape | project program management,project program management,project program management |
+| 5_product_management_quality_experience | product,management,quality,experience,privacy,role,value,clear,must,mitigate | n product management experience,product management experience,product management experience |
 
 ### Topics - Excitements about AI tools in Tech
 
