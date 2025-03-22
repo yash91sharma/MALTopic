@@ -114,12 +114,12 @@
 
 ### Topics - Concerns about AI tools in Tech
 
-1: experience leadership ai consulting job data people use take developer
-2: job inexperienced student ai market interview analyst take skill developer
-3: product management experience team ai concern privacy engineer change bias
-4: engineering development inexperienced change skill job take experience people market
-5: datum analytic science tool security inexperienced ai experience job skill
-6: management project program experience change tool ai use bias skill
-7: development experience engineering ai engineer cost team use tool developer
+1. experience leadership ai consulting job data people use take developer
+2. job inexperienced student ai market interview analyst take skill developer
+3. product management experience team ai concern privacy engineer change bias
+4. engineering development inexperienced change skill job take experience people market
+5. datum analytic science tool security inexperienced ai experience job skill
+6. management project program experience change tool ai use bias skill
+7. development experience engineering ai engineer cost team use tool developer
 
 ### Topics - Excitements about AI tools in Tech
