@@ -108,6 +108,11 @@
 
 ### Topics - Concerns about AI tools in Tech
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 ### Topics - Excitements about AI tools in Tech
 
 ## LDA
