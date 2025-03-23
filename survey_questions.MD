@@ -19,7 +19,24 @@ You are invited to participate in a brief, anonymous survey exploring the day-to
 - [ ] More than 10 years
 
 ### How much of your time is spent on each of these tasks? (Select one per row)
-| Task | Very little time | Most of the time |
-| ----------- | ----------- | ----------- |
-| Collaboration | - [ ] | - [ ] |
-| Requirement Gathering | - [ ] | - [ ] |
+<table>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th>Very little time</th>
+      <th>Most of the time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Collaboration</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Requirement Gathering</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+  </tbody>
+</table>
