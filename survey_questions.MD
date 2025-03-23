@@ -23,8 +23,45 @@ You are invited to participate in a brief, anonymous survey exploring the day-to
 | Task | Very Little Time | Most of the time |
 | ----------- | ----------- | ----------- |
 | Collaboration | X |  |
-| Requirement Gathering |  |  |
+| Requirement Gathering |  | X |
 | Design & architecture | X |  |
-| Implementation |  |  |
+| Implementation |  | X |
 | Maintenance & support | X |  |
-| People management |  |  |
+| People management |  | X |
+
+### In your opinion, where can AI tools help the most? (Select one per row)
+
+| Task | Very Little | A lot |
+| ----------- | ----------- | ----------- |
+| Collaboration | X |  |
+| Requirement Gathering |  | X |
+| Design & architecture | X |  |
+| Implementation |  | X |
+| Maintenance & support | X |  |
+| People management |  | X |
+
+### What are the biggest challenges you face at work? (multiple choice)
+
+- [X] Ensuring high level of user satisfaction
+- [ ] Keeping up with technological change
+- [ ] Maintenance, quality, tech debt
+- [X] Tight deadlines
+- [X] Unclear or changing requirements
+
+### If you could add any skill(s) to your team to make it more successful, what would it be? (multiple choice)
+
+- [X] Collaboration and Communication skills
+- [ ] Domain-Specific Knowledge
+- [ ] Leadership and Initiative
+- [X] Problem-Solving and Analytical skills
+- [X] Technical Skills
+
+### AI tools in tech: What excites you the most?
+```
+Enter text here.
+```
+
+### AI tools in tech: What are your biggest concerns?
+```
+Enter text here.
+```
