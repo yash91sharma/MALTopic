@@ -9,7 +9,7 @@ respondent's job title and years of experience. Add context where ever
 necessary. Maintain the original sentiment and meaning of the response. Do not
 introducing any new opinions, assumptions, conclusions or extrapolations which
 were not present in the original response. Keep the language generic and
-standardized. Only responsd with the summary.
+standardized. Only respond with the enriched response.
 
 Example 1:
 concerns about AI tools in tech: We cannot find enough people who know how to
