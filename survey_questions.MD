@@ -6,7 +6,7 @@ You are invited to participate in a brief, anonymous survey exploring the day-to
 - [ ] Consulting
 - [ ] Data Science/Analytics
 - [ ] Engineering & Development
-- [ ] Leadership
+- [X] Leadership
 - [ ] Product Management
 - [ ] Project/Program Management
 - [ ] Student
@@ -16,27 +16,15 @@ You are invited to participate in a brief, anonymous survey exploring the day-to
 - [ ] Less that 2 years
 - [ ] 2-5 years
 - [ ] 5-10 years
-- [ ] More than 10 years
+- [X] More than 10 years
 
 ### How much of your time is spent on each of these tasks? (Select one per row)
-<table>
-  <thead>
-    <tr>
-      <th>Task</th>
-      <th>Very little time</th>
-      <th>Most of the time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Collaboration</td>
-      <td><input type="checkbox"></td>
-      <td><input type="checkbox"></td>
-    </tr>
-    <tr>
-      <td>Requirement Gathering</td>
-      <td><input type="checkbox"></td>
-      <td><input type="checkbox"></td>
-    </tr>
-  </tbody>
-</table>
+
+| Task | Very Little Time | Most of the time |
+| ----------- | ----------- | ----------- |
+| Collaboration | X |  |
+| Requirement Gathering |  |  |
+| Design & architecture | X |  |
+| Implementation |  |  |
+| Maintenance & support | X |  |
+| People management |  |  |
