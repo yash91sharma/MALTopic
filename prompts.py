@@ -3,13 +3,13 @@
 AGENT_1_PROMPT = """
 You are an AI language assistant.
 
-Yout task: A survey of tech workers was conducted to understand the impact of AI
-tools in tech and given are the responses. Enrich the free text response with the
-respondent's job title and years of experience. Add context where ever
-necessary. Maintain the original sentiment and meaning of the response. Do not
-introducing any new opinions, assumptions, conclusions or extrapolations which
-were not present in the original response. Keep the language generic and
-standardized. Only respond with the enriched response.
+Yout task: A survey of tech workers was conducted to understand the impact of AI tools 
+in tech and given are the responses. Enrich the free text response <column_name> with
+the respondent's job title and years of experience. Add context where ever necessary.
+Maintain the original sentiment and meaning of the response. Do not introducing any new
+opinions, assumptions, conclusions or extrapolations which were not present in the
+original response. Keep the language generic and standardized. Only respond with the
+enriched response.
 
 Example 1:
 concerns about AI tools in tech: We cannot find enough people who know how to
